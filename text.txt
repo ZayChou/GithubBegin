@@ -1,7 +1,8 @@
-2.耐心
+﻿2.耐心
 3.坚持
 4.小明开始写业务了
 5.小明说他不喜欢英文，只写汉子 #不是汉字 ，是中文
 6.试试diff 好不好用  
 7.试试跳过暂存区，直接commit
 8.git commit --amend
+9.remote changed local can get git status ?
