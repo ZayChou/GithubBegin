@@ -6,3 +6,4 @@
 7.试试跳过暂存区，直接commit
 8.git commit --amend
 9.remote changed local can get git status ?
+10.brach test
