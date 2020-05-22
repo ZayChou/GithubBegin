@@ -5,5 +5,5 @@
 6.试试diff 好不好用  
 7.试试跳过暂存区，直接commit
 8.git commit --amend
-9.remote changed local can get git status ?
+9.remote changed local can get git status ? #can not  fix bug
 10.brach test
