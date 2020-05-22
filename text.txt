@@ -8,3 +8,4 @@
 9.remote changed local can get git status ?
 10.brach test
 11.added a new footer
+12.added a new footer second
